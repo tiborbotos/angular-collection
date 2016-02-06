@@ -1,2 +1,2 @@
 # angular-collection
-Collection service for AngularJS
+Collection and Option pattern service for AngularJS
