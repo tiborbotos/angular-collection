@@ -8,7 +8,7 @@
      * Option pattern angular implementation
      */
     angular
-        .module('tiborbotos.lib')
+        .module('tiborbotos.lib', [])
         .service('Option', function () {
 
             /**
